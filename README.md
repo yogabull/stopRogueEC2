@@ -1,3 +1,6 @@
 # stopRogueEC2
 
-** AWS Lambda script to stop all running EC2 instances.**
+## CONTENTS
+### Files used for creating an AWS Lambda function to shut down EC2 instances daily.
+
+
